@@ -1,0 +1,1 @@
+# captcha-solver-test_from_me_vaayu
